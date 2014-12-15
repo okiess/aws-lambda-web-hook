@@ -1,0 +1,7 @@
+{
+  "web_hook_url": "http://test.com",
+  "timeout": 60000,
+  "params": {
+    "foo": "bar"
+  }
+}
